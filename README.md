@@ -9,7 +9,7 @@
 <p align="center"> 
   <a href="mailto:jdengoh28@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://linkedin.com/in/jdengoh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a target="_blank" href="https://linkedin.com/in/jdengoh/" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <div align="center">
