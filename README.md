@@ -23,7 +23,7 @@ Welcome! I am a penultimate Computer Science student in Nanyang Technological Un
 
 <br>
 
-I am currently interning at Syanpse as a **Fullstack Developer Integrating AI into Public Healthcare**.
+I am currently interning at Syanpxe as a **Fullstack Developer Integrating AI into Public Healthcare**.
 </div>
 
 <div align="center">
