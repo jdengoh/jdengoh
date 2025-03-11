@@ -9,7 +9,7 @@
 <p align="center"> 
   <a href="mailto:jdengoh28@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://linkedin.com/in/jdengoh/" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a target="_blank"href="https://linkedin.com/in/jdengoh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <div align="center">
@@ -27,6 +27,18 @@ I am currently interning at Syanpxe as a **Fullstack Developer Integrating AI in
 </div>
 
 <div align="center">
+
+<div align="center">
+
+## 🌱 Ongoing Work
+
+Learning CrewAI Agentic Framework
+
+Financial Adviser integrating `LSTM`, `RAG-LLM`
+
+AI-Tutor integrating `LLM`, Image Gen
+
+</div>
 
 ## 💻 Technologies and Tools
 
@@ -69,22 +81,13 @@ I am currently interning at Syanpxe as a **Fullstack Developer Integrating AI in
 
 <hr>
 
-<div align="center">
-
-## 📂 Featured Projects
-
-*\<to be added\>*
-
-</div>
-
-<div align="center">
-
-## 🌱 Ongoing Work
-*\<to be added\>*
-
-</div>
-
-<hr>
+<!-- <div align="center"> -->
+<!--  -->
+<!-- ## 📂 Featured Projects -->
+<!--  -->
+<!-- *\<to be added\>* -->
+<!--  -->
+<!-- </div> -->
 
 <details align="center">
 <summary>GitHub Stats</summary>
