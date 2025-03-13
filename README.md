@@ -32,7 +32,7 @@ I am currently interning at Syanpxe as a **Fullstack Developer Integrating AI in
 
 ## 🌱 Ongoing Work
 
-Learning CrewAI Agentic Framework
+LangGraph Project for Healthcare Accessiblity
 
 Financial Adviser integrating `LSTM`, `RAG-LLM`
 
