@@ -19,28 +19,23 @@
 </div>
 
 <div align="center">
-Welcome! I am a penultimate Computer Science student in Nanyang Technological University passionate about integrating AI in Finance, Healthcare and Education sectors!
+Welcome! I am a penultimate Computer Science student in Nanyang Technological University passionate about leveraging cutting-edge technologies to solve real-world challenges. With a deep interest in artificial intelligence, machine learning, and innovative software development, I am driven by a curiosity to explore emerging technologies, such as developing multi-agent AI solutions, to make a meaningful impact on industries and society.
 
-<br>
+<br><br>
 
 I am currently interning at Syanpxe as a **Fullstack Developer Integrating AI into Public Healthcare**.
+
 </div>
 
-<div align="center">
-
-<div align="center">
+<!-- <div align="center">
 
 ## 🌱 Ongoing Work
 
-LangGraph Project for Healthcare Accessiblity
+</div> -->
 
-Financial Adviser integrating `LSTM`, `RAG-LLM`
+<div align="center">
 
-AI-Tutor integrating `LLM`, Image Gen
-
-</div>
-
-## 💻 Technologies and Tools
+  ## 💻 Technologies and Tools
 
 **Language**:  
 
