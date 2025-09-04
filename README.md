@@ -12,6 +12,8 @@
 I'm a final-year Computer Science student at NTU (GPA: 4.41) and **AI & Full-stack Developer Intern** at Synapxe. 
 
 I'm passionate about building production-ready systems that tackle real-world challenges, specializing in combining AI with robust backend architecture to create scalable, impactful solutions. Feel free to check out my work!
+
+
 &nbsp;
 
 
@@ -26,6 +28,16 @@ On the learning side, I'm exploring:
 - **Google-ADK** - Experimenting with more complex multi-agent workflows and advanced orchestration patterns
 
 &nbsp;
+
+
+## 🚀 Featured projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdengoh&repo=Geobit&bg_color=0a0e27&title_color=64ffda&text_color=8892b0&icon_color=00d4aa&cache_seconds=1800)](https://github.com/jdengoh/Geobit) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdengoh&repo=SingVentures&bg_color=0a0e27&title_color=64ffda&text_color=8892b0&icon_color=00d4aa)](https://github.com/jdengoh/SingVentures) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdengoh&repo=my-portfolio&bg_color=0a0e27&title_color=64ffda&text_color=8892b0&icon_color=00d4aa)](https://github.com/jdengoh/my-portfolio)
+
+
+
+&nbsp;
+
 
 ## 💻 &nbsp;Tech and Tools
 
@@ -90,11 +102,6 @@ On the learning side, I'm exploring:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) &nbsp;
 
 &nbsp;
-
-
-## 🚀 &nbsp;Featured projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdengoh&repo=Geobit&bg_color=0a0e27&title_color=64ffda&text_color=8892b0&icon_color=00d4aa&cache_seconds=1800)](https://github.com/jdengoh/Geobit) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdengoh&repo=SingVentures&bg_color=0a0e27&title_color=64ffda&text_color=8892b0&icon_color=00d4aa)](https://github.com/jdengoh/SingVentures) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdengoh&repo=my-portfolio&bg_color=0a0e27&title_color=64ffda&text_color=8892b0&icon_color=00d4aa)](https://github.com/jdengoh/my-portfolio)
 
 ## 📊 &nbsp;Stats
 
